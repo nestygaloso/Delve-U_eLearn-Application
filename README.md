@@ -1,5 +1,10 @@
 📌 Description
 
+👤 Team Member
+Name: Nesty Galoso
+
+Project: e-Learn Android Application
+
 eLearnJetpackCompose is a modern e-learning Android application built using Jetpack Compose and Material 3. This project demonstrates various aspects of Android development such as user authentication using Firebase, UI state management, theme customization, and responsive design for better user experience. It allows users to explore different courses, track their progress, and resume learning where they left off.
 
 🔥 Features
