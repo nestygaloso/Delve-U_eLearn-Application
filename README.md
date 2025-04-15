@@ -50,7 +50,7 @@ As mentioned, Delve U is a modern e-learning platform developed using Jetpack Co
 
 💻 Installation
 1. Clone the repository:
-   git clone https://github.com/yourusername/DelveU.git
+   git clone [https://github.com/nestygaloso/eLearnJetpackCompose]
 2. Open the project in Android Studio.
 3. Build and run the application on an emulator or physical device.
 
@@ -75,26 +75,5 @@ The application follows a modular architecture with clear separation of concerns
 •	• Jetpack Navigation Compose
 
 📁 Project Structure
-
-DelveU/
-├── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/com/example/delveu/
-│   │   │   │   ├── MainActivity.kt
-│   │   │   │   ├── ui/
-│   │   │   │   │   ├── components/
-│   │   │   │   │   ├── screens/
-│   │   │   │   │   └── theme/
-│   │   │   └── res/
-│   │   │       ├── drawable/
-│   │   │       └── values/
-├── doc/
-│   ├── planning.md
-│   ├── prototype/
-│   │   └── ui_mockups.png
-│   └── images/
-├── README.md
-└── build.gradle
 
 
