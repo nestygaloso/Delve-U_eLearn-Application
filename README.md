@@ -86,9 +86,9 @@ DelveU/
 │   │   │   │   │   ├── components/
 │   │   │   │   │   ├── screens/
 │   │   │   │   │   └── theme/
-│   │   └── res/
-│   │       ├── drawable/
-│   │       └── values/
+│   │   │   └── res/
+│   │   │       ├── drawable/
+│   │   │       └── values/
 ├── doc/
 │   ├── planning.md
 │   ├── prototype/
@@ -96,6 +96,5 @@ DelveU/
 │   └── images/
 ├── README.md
 └── build.gradle
-
 
 
