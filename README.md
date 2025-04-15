@@ -74,6 +74,6 @@ The application follows a modular architecture with clear separation of concerns
 •	• Coil for image loading
 •	• Jetpack Navigation Compose
 
-📁 Project Structure
+📁 Project Structure (See Project Screenshots Folder)
 
 
