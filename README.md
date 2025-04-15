@@ -4,7 +4,7 @@
 
 ## Project Planning Document
 
-📌 Description
+## 📌 Description
 
 👤 Team Member
 Name: Nesty Galoso
